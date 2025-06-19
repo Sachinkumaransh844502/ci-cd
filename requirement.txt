@@ -1,11 +1,5 @@
 numpy 
 pandas 
 matplotlib
-seaborn 
 
-keras
-requests 
-streamlit
-plotly
-xgboost
-lightgbm
+
